@@ -1,0 +1,20 @@
+gedit &
+pinfo 68410
+gedit &
+echo Hello
+echo Hello
+echo "Hello"
+exit
+echo bhautik      "Ramani"
+exit
+echo Bhautik "   Ramani"
+exit
+echo Bhautik        "           Ramani"
+exit
+exit
+exit
+exit
+exit
+cd ..
+cd 2024201077_Assignment2
+exit
